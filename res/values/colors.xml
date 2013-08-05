@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray_light">#e8e8e8</color>
+
+    <color name="aaa">#aaaaaa</color>
+    <color name="bbb">#bbbbbb</color>
+    <color name="ccc">#cccccc</color>
+    <color name="ddd">#dddddd</color>
+    <color name="eee">#eeeeee</color>
+    <color name="fff">#ffffff</color>
+
+    <color name="blue_light">#def3fa</color>
+    <color name="blue_1qtr">#c8ebf6</color>
+    <color name="blue_1third">#b7e5f4</color>
+    <color name="blue_half">#91d7ee</color>
+    <color name="blue_2third">#6cc9e8</color>
+    <color name="blue_3qtr">#5bc3e6</color>
+    <color name="blue_full">#24afdd</color>
+</resources>

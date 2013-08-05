@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reddit Reader</string>
+    <string name="title_post_detail">Post Detail</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="prefs_activity_title">Settings</string>
+    <string name="pref_list_title">Post List Settings</string>
+    <string name="pref_list_img_preview">Full Image Preview</string>
+    <string name="pref_list_img_preview_summ">Show full-size images in Post List
+        (increases data usage)</string>
+
+    <string-array name="subreddit_array">
+        <item>Favorites</item>
+        <item>Android</item>
+        <item>Google</item>
+        <!--<item>Trees</item>-->
+        <item>asoiaf</item>
+        <item>GameOfThrones</item>
+        <item>DoctorWho</item>
+        <item>Default</item>
+        <item>Front Page</item>
+        <item>All</item>
+        <item>Announcements</item>
+        <item>AskReddit</item>
+        <item>Aww</item>
+        <item>BestOf</item>
+        <item>Blog</item>
+        <item>Books</item>
+        <item>EarthPorn</item>
+        <item>ExplainLikeImFive</item>
+        <item>Funny</item>
+        <item>Gaming</item>
+        <item>Gifs</item>
+        <item>IAMA</item>
+        <item>Movies</item>
+        <item>Music</item>
+        <item>News</item>
+        <item>Pics</item>
+        <item>Science</item>
+        <item>Technology</item>
+        <item>Television</item>
+        <item>TodayILearned</item>
+        <item>Videos</item>
+        <item>WorldNews</item>
+        <item>WTF</item>
+    </string-array>
+
+    <string-array name="filter_array">
+        <item>Hot</item>
+        <item>New</item>
+        <item>Rising</item>
+        <item>Controversial</item>
+        <item>Top</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,15 @@
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+    <View
+          android:layout_width="1px"
+          android:layout_height="match_parent"
+          android:background="#000"
+          android:alpha="0.15"
+          android:id="@+id/vert_line"/>
+    <View
+        android:layout_width="16dp"
+        android:layout_height="match_parent"
+        android:id="@+id/vert_line_space" />
+</RelativeLayout>

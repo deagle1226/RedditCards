@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="?android:attr/listPreferredItemHeight" >
+    <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="10dp"
+            android:background="@drawable/card_selecter"
+            android:layout_marginTop="10dp" >
+
+        <TextView
+                android:id="@+id/post_score"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:textSize="@dimen/text_xlarge"
+                android:fontFamily="sans-serif-condensed"
+                android:textColor="#555"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:paddingRight="10dp"
+                android:editable="false"
+                android:gravity="center"/>
+
+        <TextView
+                android:id="@+id/post_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/text_large"
+                android:fontFamily="sans-serif-light"
+                android:layout_gravity="right|top"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/post_score"
+                android:textColor="#555"
+                android:paddingBottom="10dp"/>
+
+        <me.daneagle.redditreader.Utils.LoaderImageView
+            android:layout_height="200dp"
+            android:layout_width="match_parent"
+            android:id="@+id/post_image"
+            android:layout_below="@id/post_title" />
+
+        <RelativeLayout
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:background="#aaffffff"
+            android:layout_alignParentBottom="true"
+            android:padding="8dp">
+
+
+            <TextView
+                    android:id="@+id/post_details"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/text_small"
+                    android:fontFamily="sans-serif-condensed"
+                    android:textColor="#555"/>
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/post_comments"
+                    android:layout_alignParentRight="true"
+                    android:textColor="#555"
+                    android:textSize="@dimen/text_small"
+                    android:fontFamily="sans-serif-condensed"/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</FrameLayout>

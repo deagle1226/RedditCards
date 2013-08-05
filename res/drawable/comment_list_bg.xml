@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/gray_light" />
+        </shape>
+    </item>
+
+    <item android:left="2dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/eee" />
+        </shape>
+    </item>
+
+    <item android:left="16dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/gray_light" />
+        </shape>
+    </item>
+
+    <item android:left="18dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/eee" />
+        </shape>
+    </item>
+
+    <item android:left="32dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/gray_light" />
+        </shape>
+    </item>
+
+    <item android:left="34dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/eee" />
+        </shape>
+    </item>
+
+    <item android:left="48dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/gray_light" />
+        </shape>
+    </item>
+
+    <item android:left="50dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/eee" />
+        </shape>
+    </item>
+
+    <item android:left="64dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/gray_light" />
+        </shape>
+    </item>
+
+    <item android:left="66dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/eee" />
+        </shape>
+    </item>
+
+    <item android:left="80dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/gray_light" />
+        </shape>
+    </item>
+
+    <item android:left="82dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/eee" />
+        </shape>
+    </item>
+
+    <item android:left="96dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/gray_light" />
+        </shape>
+    </item>
+
+    <item android:left="98dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/eee" />
+        </shape>
+    </item>
+
+    <item android:left="112dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/gray_light" />
+        </shape>
+    </item>
+
+    <item android:left="114dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/eee" />
+        </shape>
+    </item>
+
+    <item android:left="128dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/gray_light" />
+        </shape>
+    </item>
+
+    <item android:left="130dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/eee" />
+        </shape>
+    </item>
+
+    <item android:left="144dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/gray_light" />
+        </shape>
+    </item>
+
+    <item android:left="146dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/eee" />
+        </shape>
+    </item>
+
+    <item android:left="160dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/gray_light" />
+        </shape>
+    </item>
+
+    <item android:left="162dp"
+          android:top="10dp">
+        <shape android:shape="rectangle"
+               android:dither="true">
+            <solid android:color="@color/eee" />
+        </shape>
+    </item>
+</layer-list>
